@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>𐙚 Together Forever</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background-image: url('background.jpg'); /* Replace with uploaded image URL */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: #fff;
+      text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px 30px;
+    }
+    header h1 {
+      font-size: 3em;
+      color: skyblue;
+      margin-bottom: 10px;
+    }
+    section {
+      padding: 30px 20px;
+    }
+    h2 {
+      color: #ffffff;
+      font-size: 2em;
+      margin-bottom: 10px;
+    }
+    .about, .services, .gallery, .book, .contact {
+      background-color: rgba(255, 255, 255, 0.2);
+      border-radius: 20px;
+      margin: 20px auto;
+      max-width: 600px;
+      padding: 20px;
+      backdrop-filter: blur(4px);
+    }
+    ul {
+      list-style-type: circle;
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #eee;
+    }
+    a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>𐙚 Together Forever</h1>
+    <p>Where dreamy visions become sweet, lasting memories!</p>
+  </header>  <section class="about">
+    <h2>About Us</h2>
+    <p>We started this little magical company on April 9, Wednesday, 2025, with one big dream — turning your heart's cutest ideas into dreamy real-life moments. From fairylike picnics to cozy cafe celebrations, we sprinkle joy and glitter on everything we do!</p>
+  </section>  <section class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Birthday Parties</li>
+      <li>Kitty Parties</li>
+      <li>Cute Picnic Parties</li>
+      <li>Cute Cafe Parties</li>
+      <li>Friendship Day Celebrations</li>
+    </ul>
+  </section>  <section class="gallery">
+    <h2>Gallery</h2>
+    <p>Our magical memories are still being stitched together... Stay tuned!</p>
+  </section>  <section class="book">
+    <h2>Book With Us</h2>
+    <p>We can't wait to dream with you! Reach out and let's create cuteness overload!</p>
+  </section>  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:blueberroy@gmail.com">blueberroy@gmail.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/two_gather12" target="_blank">@two_gather12</a></p>
+  </section>  <footer>
+    <p>𐙚 Together Forever – Dream it. Celebrate it. Remember it.</p>
+  </footer>
+</body>
+</html>
